@@ -1,11 +1,11 @@
 # Site settings
 author: Andrew Ribas
-title: 
+title: Coding Trix
 header-img: img/home-bg.png
 email: andrew.j.ribas@gmail.com
 copyright_name: Andrew Ribas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Get it? As in Directrix? But also as in tricks with coding you can do?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Directrix777
