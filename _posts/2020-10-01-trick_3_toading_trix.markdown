@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Trick 3: Toading Trix"
-date:       2020-10-01 18:36:24 +0000
+date:       2020-10-01 14:36:24 -0400
 permalink:  trick_3_toading_trix
 ---
 
@@ -26,4 +26,4 @@ end
 ```
 I was using that code in quite a few actions, so it made sense to dry things up a bit.
 
-Wait, hang on! That's the trick! Drying things up! It may seem kind of obvious, but if you notice you're using the same logic a lot, put it in its own method, so you don't have to type out the same code a bajillion and one times. I guess the notion of this Trick being a trick was a trick! There was a trick here the whole time! *And* I still got to make a pun with my blog title! Muahaha
+Wait, hang on! That's the trick! Drying things up! It may seem kind of obvious, but if you notice you're using the same logic a lot, put it in its own method, so you don't have to type out the same code a bajillion and one times. I guess the notion of this Trick being a trick was a trick! There was a trick here the whole time! *And* I still got to make a pun with my blog title! Muahaha! Consider yourself tricked by Trix's tricky Trick! ...Now the word trick sounds weird XD
