@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Trick 6: CSS Situation"
-date:       2020-12-17 20:43:11 +0000
+date:       2020-12-17 15:43:12 -0500
 permalink:  trick_6_css_situation
 ---
 
@@ -78,3 +78,7 @@ So now our button's state changes when we click it, but it's not actually changi
 This way, our button will render based on the state of the class. We can render our CSS conditionally!
 
 So that's my trick! You can use string interpolation to render conditional CSS without having to make a seperate method for deciding which version to render!
+
+And now, for my final trick, I will disappear! 
+
+...or maybe not? I might update this more if I find more, lesser known tricks out there in the wild. Either way, this blog is going quiet for a while, so bye for now! 
